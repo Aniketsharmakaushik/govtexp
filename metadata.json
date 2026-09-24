@@ -1,0 +1,6 @@
+{
+  "name": "SarkariTrack",
+  "description": "Government exam eligibility engine and recruitment alert tracker for Indian civil and public examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
